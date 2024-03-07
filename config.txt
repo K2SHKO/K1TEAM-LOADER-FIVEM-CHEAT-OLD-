@@ -1,0 +1,5 @@
+Server=sql.2
+Port=3
+Database=l
+User=Y
+Password=nC33
